@@ -1,0 +1,6 @@
+version: "3"
+services:
+  texlive-context-cmttbf:
+    build: texlive-context-cmttbf/
+  texlive-context-fancybreak:
+    build: texlive-context-fancybreak/
